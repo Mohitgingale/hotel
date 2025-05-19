@@ -1,10 +1,31 @@
-Hotel
-This is the hotel booking website Created By Mohit Govind Ingale
+Hotel Booking Website 🌐
+This project is a Hotel Booking Website designed to provide a seamless and visually appealing experience for travelers looking to book their ideal stay. Built with a responsive, user-friendly design, this site offers a comprehensive view of hotel amenities, rooms, and services, ensuring a smooth browsing experience across devices.
 
-This site is only the frontend of the hotel booking site
+Key Features:
 
-Something About Project
+🌟 Responsive Design: Optimized for all screen sizes, from mobile to desktop.
 
-I am make this website using The Html CSS Javascript Boostrap and JQuery 
+🛏️ Room Showcase: Beautifully designed room pages with detailed descriptions and amenities.
 
-This Website Contains the Animations to all pages for use this Website make sure you are connected to internet beacuse of load boostrap
+📅 Booking System: Integrated booking forms for easy reservations.
+
+💬 Contact and Feedback: Convenient contact forms for customer inquiries.
+
+🎨 Modern Aesthetics: Clean and professional design with smooth animations.
+
+Technologies Used:
+
+HTML5 for structured content
+
+CSS3 for styling and layout
+
+JavaScript for interactivity
+
+GitHub Pages for hosting
+
+Visit the live site: https://mohitgingale.github.io/hotel/
+
+Website Created By Mohit Govind Ingale
+
+
+
