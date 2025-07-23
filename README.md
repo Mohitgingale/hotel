@@ -28,4 +28,13 @@ Visit the live site: https://mohitgingale.github.io/hotel/
 Website Created By Mohit Govind Ingale
 
 
+Preview project 
+
+
+https://github.com/user-attachments/assets/a957c3b1-217a-4dd1-b4b3-67ce768dd7e7
+
+
+
+
+
 
